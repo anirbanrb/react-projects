@@ -1,0 +1,150 @@
+.App-name {
+  position: absolute;
+  font-size: 24px;
+  line-height: 28.13px;
+  color: #fff;
+  font-family: Roboto;
+  font-weight: 700;
+  font-style: normal;
+  margin: 0px 1348px 0px 104.55px;
+  display: inline-block;
+  width: 294px;
+  height: 27px;
+  left: 104.55px;
+  top: 34px;
+}
+
+.App-header {
+  background-color: #101010;
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+  justify-content: left;
+  position: absolute;
+  width: 1920px;
+  height: 118px;
+  left: 0;
+  top: 0;
+}
+
+.main-container {
+  display: flex;
+  justify-content: space-between;
+  /* grid-gap: 28px 62px;
+  grid-template-columns: 520px 520px 520px;
+  grid-template-rows: 218px 218px 218px; */
+  background-color: black;
+  /* padding: 57px 140px 57px 96px; */
+  position: absolute;
+  float: right;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 118px;
+  /* overflow-y: scroll; */
+}
+
+.frame {
+  display: flex;
+  justify-content: space-between;
+  /* grid-gap: 28px 62px;
+  grid-template-columns: 520px 520px 520px;
+  grid-template-rows: 218px 218px 218px; */
+  background-color: gray;
+  /* padding: 57px 140px 57px 96px; */
+  position: absolute;
+  flex-direction: row;
+  align-items: left;
+  flex-wrap: wrap;
+  /* justify-content: left; */
+  float: left;
+  width: 1684px;
+  height: 905px;
+  left: 96px;
+  top: 57px;
+  right: 140px;
+  overflow-x: scroll;
+}
+/* .main-container div {
+  font-size: 30px;
+  text-align: center;
+  width: 520px;
+  height: 218px;
+  left: 0px;
+  top: 0px;
+  color: white;
+  background: #131313;
+  border-radius: 5px;
+} */
+
+.frame ul {
+  position: absolute;
+  display: grid;
+  justify-content: left;
+  color: #ffffff;
+  /* text-align: center; */
+  /* flex-wrap: wrap; */
+  grid-gap: 28px 62px;
+  grid-template-columns: 520px 520px 520px;
+  grid-template-rows: 218px 218px 218px;
+  /* width: 207px;
+  height: 42px;
+  left: 204px;
+  top: 27px; */
+  
+}
+
+.name {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  /* color: #ffffff; */
+  height: 42px;
+  width: 207px;
+  left: 204px;
+  top: 27px;
+}
+
+.nickname {
+  position: absolute;
+  /* width: 136px; */
+  /* height: 31px; */
+  left: 204px;
+  top: 66px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  /* line-height: 28px; */
+  /* color: #ffffff; */
+}
+/* .grid-item-1 h2 {
+  position: absolute;
+  display: flex;
+  justify-content: left;
+  text-align: center;
+  flex-wrap: wrap;
+  width: 207px;
+  height: 42px;
+  left: 204px;
+  top: 27px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  color: #ffffff;
+}
+
+.grid-item-1 img {
+  cast_bb_700x1000_walter-white-lg
+  position: absolute;
+  width: 180.63px;
+  height: 258.64px;
+  left: -0.32px;
+  top: 260px;
+  background: url();
+  border-radius: 5px;
+} */
